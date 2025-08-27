@@ -17,7 +17,7 @@ transformers>=4.31.0  # need Encodec there.
 demucs
 librosa
 soundfile
-gradio
+gradio==3.44.4
 torchmetrics
 encodec
 protobuf
