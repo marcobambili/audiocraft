@@ -26,3 +26,4 @@ torchtext==0.18.0
 pesq
 pystoi
 torchdiffeq
+xformers
