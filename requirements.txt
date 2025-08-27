@@ -23,7 +23,7 @@ torchmetrics
 encodec
 protobuf
 torchvision==0.19.1
-torchtext==0.16.0
+torchtext==0.19.1
 pesq
 pystoi
 torchdiffeq
